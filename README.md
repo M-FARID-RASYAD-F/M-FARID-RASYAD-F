@@ -98,19 +98,6 @@
 
 ### 📊 Metrics & Activity Analytics
 
-<div align="center">
-
-  <!-- GitHub Trophy Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=M-FARID-RASYAD-F&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" width="100%" />
-
-<br/><br/>
-
-  <!-- Stats & Top Languages Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=M-FARID-RASYAD-F&show_icons=true&theme=dark&count_private=true&hide_border=false&border_radius=6&title_color=FFFFFF&icon_color=E2B96C&text_color=8B949E&bg_color=0D1117&border_color=21262D" alt="Farid's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-FARID-RASYAD-F&layout=compact&theme=dark&hide_border=false&border_radius=6&title_color=FFFFFF&text_color=8B949E&bg_color=0D1117&border_color=21262D" alt="Top Languages" width="45%" />
-
-<br/><br/>
-
   <!-- Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-FARID-RASYAD-F&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=E2B96C&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" width="95%" />
 
