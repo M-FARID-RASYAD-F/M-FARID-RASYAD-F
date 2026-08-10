@@ -14,8 +14,9 @@
     <code>SIMPLICITY IS PREQUISITE FOR RELIABILITY.</code>
   </p>
 
-  <!-- Monochrome Badges -->
+  <!-- Monochrome Badges & Views Counter -->
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=M-FARID-RASYAD-F&color=E2B96C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/M-FARID-RASYAD-F?label=Followers&style=for-the-badge&color=161B22&labelColor=0D1117" alt="Followers" />
     <img src="https://img.shields.io/github/stars/M-FARID-RASYAD-F?label=Stars&style=for-the-badge&color=161B22&labelColor=0D1117" alt="Stars" />
     <img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEV-E2B96C?style=for-the-badge&labelColor=0D1117" alt="Focus" />
@@ -92,16 +93,23 @@
 
 ---
 
-### 📊 System Metrics & Analytics
+### 📊 Metrics & Activity Analytics
 
 <div align="center">
 
+  <!-- GitHub Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=M-FARID-RASYAD-F&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" width="100%" />
+
+  <br/><br/>
+
+  <!-- Stats & Top Languages Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=M-FARID-RASYAD-F&show_icons=true&theme=dark&count_private=true&hide_border=false&border_radius=6&title_color=FFFFFF&icon_color=E2B96C&text_color=8B949E&bg_color=0D1117&border_color=21262D" alt="Farid's GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-FARID-RASYAD-F&layout=compact&theme=dark&hide_border=false&border_radius=6&title_color=FFFFFF&text_color=8B949E&bg_color=0D1117&border_color=21262D" alt="Top Languages" width="45%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-FARID-RASYAD-F&theme=dark&hide_border=false&border_radius=6&border=21262D&background=0D1117&ring=FFFFFF&fire=E2B96C&currStreakLabel=FFFFFF" alt="GitHub Streak" width="95%" />
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-FARID-RASYAD-F&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=E2B96C&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" width="95%" />
 
 </div>
 
@@ -109,7 +117,7 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Activity (Snake Game)
 
 <div align="center">
 
